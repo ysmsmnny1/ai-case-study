@@ -1,1 +1,1 @@
-# ai-case-study
+*Palantir
